@@ -1,6 +1,4 @@
 Name: Gopal Nagarajan
-B-Number: B00675008
-B-mail: ngopal1@binghamton.edu
 
 Command to run:
 step1: ant compile
